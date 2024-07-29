@@ -10,7 +10,6 @@ This repository contains a simple implementation of the classic Breakout game us
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- 
 ## Installation
 
 1. **Clone the repository:**
